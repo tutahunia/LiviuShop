@@ -1,0 +1,5 @@
+tutorial_to_do_list:
+    resource: "@TutorialToDoListBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
